@@ -1,0 +1,60 @@
+body{
+	background: #b7e2eb;
+}
+
+.btn-primary-outline{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.section1{
+  width: 70%;
+  float: right;
+  background: #002b32;
+  color: #b7e2eb;
+}
+
+.page-name{
+  margin-left: 10%;
+}
+
+.top-hr{
+  width: 96%;
+  text-align: center;
+  border-top: 1px solid white;
+}
+
+.topic-price h2{
+  float: left;
+  width: 60%;
+  margin-left: 2%;
+}
+
+.topic-price h3{
+  margin-right: 2%;
+  float: right;
+}
+
+.section1 p{
+  margin-left: 2%;
+  width: 60%;
+}
+
+.list{
+  margin-top: 20px;
+  text-align: left;
+  margin-left: 2%;
+}
+
+.section1 h4{
+  text-decoration: underline;
+  text-align: right;
+  margin-right: 2%;
+}
+
+.bottom-hr{
+  width: 96%;
+  margin-left: 2%;
+  text-align: center;
+  border-top: 1px solid white;
+}

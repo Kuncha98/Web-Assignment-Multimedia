@@ -1,0 +1,58 @@
+body{
+	background: #b7e2eb;
+}
+
+.btn-primary-outline{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.topic{
+  text-align: center;
+  font-size: 28px;
+}
+
+.container-dis{
+  letter-spacing: 2px;
+  line-height: 30px;
+  background-color: #002b32;
+  text-align: center;
+  color: white;
+  margin-left: 20%;
+  margin-right:20%;
+}
+
+.container-dis h3{
+  line-height: 40px;
+  padding-top: 100px;
+}
+
+.container-dis h4{
+  line-height: 60px;
+}
+
+.container-dis p{
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.para-head{
+  padding-bottom: 50px;
+}
+
+.para-ser{
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.para-last{
+  padding-bottom: 450px;
+}
+
+.image img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: -350px;
+}

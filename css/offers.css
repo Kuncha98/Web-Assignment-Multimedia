@@ -1,0 +1,70 @@
+body{
+	background: #b7e2eb;
+}
+
+.btn-primary-outline{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.section1 h1{
+  padding-top: 75px;
+  font-size: 42px;
+}
+
+.img1{
+  margin-top: 75px;
+}
+
+.hr1{
+  border-top: 1px solid white;
+  width: 70%;
+}
+
+.hr2{
+  border-top: 1px solid white;
+  width: 70%;
+  padding-bottom: 50px;
+}
+
+.offer-name{
+  text-align: left;
+  width: 70%;
+  margin-left: 15%;
+}
+
+.para-1{
+  text-align: left;
+  width: 70%;
+  margin-top: 50px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.section1{
+  background:#002b32;
+  color: #b7e2eb;
+  width: 70%;
+  height: 100%;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.list-section{
+  width: 100%;
+  display: inline-block;
+}
+
+.terms-class{
+  margin-top: 50px;
+  margin-left: 15%;
+  text-align: left;
+}
+
+.list{
+  margin-top: 50px;
+  text-align: left;
+  float: left;
+  margin-left: 15%;
+}

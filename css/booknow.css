@@ -1,0 +1,17 @@
+body{
+	background: #b7e2eb;
+}
+
+.btn-primary-outline{
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.topic1{
+  text-align: center;
+  background: #002b32;
+  color: white;
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+}
